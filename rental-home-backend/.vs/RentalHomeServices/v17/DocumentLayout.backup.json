@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sagar.reddy\\Desktop\\CapstoneProject\\rentalhome\\rental-home-backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46A1A07E-2567-447B-8BC8-8DDA4F44285F}|AccountService\\AccountService.csproj|c:\\users\\sagar.reddy\\desktop\\capstoneproject\\rentalhome\\rental-home-backend\\accountservice\\accountservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{46A1A07E-2567-447B-8BC8-8DDA4F44285F}|AccountService\\AccountService.csproj|solutionrelative:accountservice\\accountservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A1A07E-2567-447B-8BC8-8DDA4F44285F}|AccountService\\AccountService.csproj|c:\\users\\sagar.reddy\\desktop\\capstoneproject\\rentalhome\\rental-home-backend\\accountservice\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A1A07E-2567-447B-8BC8-8DDA4F44285F}|AccountService\\AccountService.csproj|solutionrelative:accountservice\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A1A07E-2567-447B-8BC8-8DDA4F44285F}|AccountService\\AccountService.csproj|c:\\users\\sagar.reddy\\desktop\\capstoneproject\\rentalhome\\rental-home-backend\\accountservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A1A07E-2567-447B-8BC8-8DDA4F44285F}|AccountService\\AccountService.csproj|solutionrelative:accountservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC4493E-BDA7-471C-97DC-943430DC6B5F}|ChatService\\ChatService.csproj|c:\\users\\sagar.reddy\\desktop\\capstoneproject\\rentalhome\\rental-home-backend\\chatservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DDC4493E-BDA7-471C-97DC-943430DC6B5F}|ChatService\\ChatService.csproj|solutionrelative:chatservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C280DD-6284-4B59-B486-940657A37BDE}|PropertyService\\PropertyService.csproj|c:\\users\\sagar.reddy\\desktop\\capstoneproject\\rentalhome\\rental-home-backend\\propertyservice\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C280DD-6284-4B59-B486-940657A37BDE}|PropertyService\\PropertyService.csproj|solutionrelative:propertyservice\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C280DD-6284-4B59-B486-940657A37BDE}|PropertyService\\PropertyService.csproj|c:\\users\\sagar.reddy\\desktop\\capstoneproject\\rentalhome\\rental-home-backend\\propertyservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C280DD-6284-4B59-B486-940657A37BDE}|PropertyService\\PropertyService.csproj|solutionrelative:propertyservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78C280DD-6284-4B59-B486-940657A37BDE}|PropertyService\\PropertyService.csproj|c:\\users\\sagar.reddy\\desktop\\capstoneproject\\rentalhome\\rental-home-backend\\propertyservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78C280DD-6284-4B59-B486-940657A37BDE}|PropertyService\\PropertyService.csproj|solutionrelative:propertyservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9FAAD57-07BA-4E15-8C4C-1500A916A4C6}|Api-Gateway\\Api-Gateway.csproj|c:\\users\\sagar.reddy\\desktop\\capstoneproject\\rentalhome\\rental-home-backend\\api-gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9FAAD57-07BA-4E15-8C4C-1500A916A4C6}|Api-Gateway\\Api-Gateway.csproj|solutionrelative:api-gateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9FAAD57-07BA-4E15-8C4C-1500A916A4C6}|Api-Gateway\\Api-Gateway.csproj|c:\\users\\sagar.reddy\\desktop\\capstoneproject\\rentalhome\\rental-home-backend\\api-gateway\\apigatewayconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F9FAAD57-07BA-4E15-8C4C-1500A916A4C6}|Api-Gateway\\Api-Gateway.csproj|solutionrelative:api-gateway\\apigatewayconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9FAAD57-07BA-4E15-8C4C-1500A916A4C6}|Api-Gateway\\Api-Gateway.csproj|c:\\users\\sagar.reddy\\desktop\\capstoneproject\\rentalhome\\rental-home-backend\\api-gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9FAAD57-07BA-4E15-8C4C-1500A916A4C6}|Api-Gateway\\Api-Gateway.csproj|solutionrelative:api-gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A1A07E-2567-447B-8BC8-8DDA4F44285F}|AccountService\\AccountService.csproj|c:\\users\\sagar.reddy\\desktop\\capstoneproject\\rentalhome\\rental-home-backend\\accountservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46A1A07E-2567-447B-8BC8-8DDA4F44285F}|AccountService\\AccountService.csproj|solutionrelative:accountservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Sagar.reddy\\Desktop\\CapstoneProject\\rentalhome\\rental-home-backend\\AccountService\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AccountService\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Sagar.reddy\\Desktop\\CapstoneProject\\rentalhome\\rental-home-backend\\AccountService\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AccountService\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:34:45.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountService",
+              "DocumentMoniker": "C:\\Users\\Sagar.reddy\\Desktop\\CapstoneProject\\rentalhome\\rental-home-backend\\AccountService\\AccountService.csproj",
+              "RelativeDocumentMoniker": "AccountService\\AccountService.csproj",
+              "ToolTip": "C:\\Users\\Sagar.reddy\\Desktop\\CapstoneProject\\rentalhome\\rental-home-backend\\AccountService\\AccountService.csproj",
+              "RelativeToolTip": "AccountService\\AccountService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T06:25:48.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sagar.reddy\\Desktop\\CapstoneProject\\rentalhome\\rental-home-backend\\ChatService\\appsettings.json",
+              "RelativeDocumentMoniker": "ChatService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sagar.reddy\\Desktop\\CapstoneProject\\rentalhome\\rental-home-backend\\ChatService\\appsettings.json",
+              "RelativeToolTip": "ChatService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T06:14:09.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PropertyController.cs",
+              "DocumentMoniker": "C:\\Users\\Sagar.reddy\\Desktop\\CapstoneProject\\rentalhome\\rental-home-backend\\PropertyService\\Controllers\\PropertyController.cs",
+              "RelativeDocumentMoniker": "PropertyService\\Controllers\\PropertyController.cs",
+              "ToolTip": "C:\\Users\\Sagar.reddy\\Desktop\\CapstoneProject\\rentalhome\\rental-home-backend\\PropertyService\\Controllers\\PropertyController.cs",
+              "RelativeToolTip": "PropertyService\\Controllers\\PropertyController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwDoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:46:58.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sagar.reddy\\Desktop\\CapstoneProject\\rentalhome\\rental-home-backend\\PropertyService\\Program.cs",
+              "RelativeDocumentMoniker": "PropertyService\\Program.cs",
+              "ToolTip": "C:\\Users\\Sagar.reddy\\Desktop\\CapstoneProject\\rentalhome\\rental-home-backend\\PropertyService\\Program.cs",
+              "RelativeToolTip": "PropertyService\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:35:21.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sagar.reddy\\Desktop\\CapstoneProject\\rentalhome\\rental-home-backend\\PropertyService\\appsettings.json",
+              "RelativeDocumentMoniker": "PropertyService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sagar.reddy\\Desktop\\CapstoneProject\\rentalhome\\rental-home-backend\\PropertyService\\appsettings.json",
+              "RelativeToolTip": "PropertyService\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAC8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T05:31:55.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sagar.reddy\\Desktop\\CapstoneProject\\rentalhome\\rental-home-backend\\AccountService\\Program.cs",
+              "RelativeDocumentMoniker": "AccountService\\Program.cs",
+              "ToolTip": "C:\\Users\\Sagar.reddy\\Desktop\\CapstoneProject\\rentalhome\\rental-home-backend\\AccountService\\Program.cs",
+              "RelativeToolTip": "AccountService\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:16:19.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sagar.reddy\\Desktop\\CapstoneProject\\rentalhome\\rental-home-backend\\Api-Gateway\\Program.cs",
+              "RelativeDocumentMoniker": "Api-Gateway\\Program.cs",
+              "ToolTip": "C:\\Users\\Sagar.reddy\\Desktop\\CapstoneProject\\rentalhome\\rental-home-backend\\Api-Gateway\\Program.cs",
+              "RelativeToolTip": "Api-Gateway\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwC0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:57:53.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiGatewayConfig.json",
+              "DocumentMoniker": "C:\\Users\\Sagar.reddy\\Desktop\\CapstoneProject\\rentalhome\\rental-home-backend\\Api-Gateway\\ApiGatewayConfig.json",
+              "RelativeDocumentMoniker": "Api-Gateway\\ApiGatewayConfig.json",
+              "ToolTip": "C:\\Users\\Sagar.reddy\\Desktop\\CapstoneProject\\rentalhome\\rental-home-backend\\Api-Gateway\\ApiGatewayConfig.json",
+              "RelativeToolTip": "Api-Gateway\\ApiGatewayConfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T04:56:00.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sagar.reddy\\Desktop\\CapstoneProject\\rentalhome\\rental-home-backend\\Api-Gateway\\appsettings.json",
+              "RelativeDocumentMoniker": "Api-Gateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sagar.reddy\\Desktop\\CapstoneProject\\rentalhome\\rental-home-backend\\Api-Gateway\\appsettings.json",
+              "RelativeToolTip": "Api-Gateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T04:55:55.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sagar.reddy\\Desktop\\CapstoneProject\\rentalhome\\rental-home-backend\\AccountService\\appsettings.json",
+              "RelativeDocumentMoniker": "AccountService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sagar.reddy\\Desktop\\CapstoneProject\\rentalhome\\rental-home-backend\\AccountService\\appsettings.json",
+              "RelativeToolTip": "AccountService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T07:20:20.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "FZf1x5sRkKGFqxuW+iIpweFl2HClpkG/ifGUwSB/lVs=",
+  "Source": "AccountService",
+  "BasePath": "_content/AccountService",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

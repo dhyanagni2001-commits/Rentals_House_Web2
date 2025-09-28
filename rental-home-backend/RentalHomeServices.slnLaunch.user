@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "PropertyService\\PropertyService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Api-Gateway\\Api-Gateway.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FavouriteService\\FavouriteService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ChatService\\ChatService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FeedbackService\\FeedbackService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
