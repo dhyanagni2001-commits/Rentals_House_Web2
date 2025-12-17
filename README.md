@@ -1,4 +1,4 @@
-# 🧠 Urban Estate – Backend Services
+# 🧠 Rental House – Backend Services
 
 ## Overview
 The Urban Estate backend provides **scalable, microservice-based APIs** to support authentication, property management, favorites, feedback, and real-time chat for the rental platform.
